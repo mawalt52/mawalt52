@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Marc
 - 👀 I’m interested in caterham
 - 🌱 I’m currently learning something
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mawalt52@gmail.com
+- 📫 How to reach me: mawalt52@gmail.com or mawalt_52#7326
 
 <!---
 mawalt52/mawalt52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
